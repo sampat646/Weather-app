@@ -14,7 +14,7 @@ To run this Weather App, you'll need to obtain an API key from OpenWeatherMap.
 
 ### Getting an API Key
 
-1. Go to [OpenWeatherMap](https://openweathermap.org/) and sign up for a free account.
+1. Go to [OpenWeatherMap]([https://www.weatherapi.com/]) and sign up for a free account.
 2. After signing in, go to your account dashboard and navigate to the "API Keys" section.
 3. Generate a new API key or copy your existing one.
 
