@@ -10,7 +10,7 @@ const locationn = document.getElementById("get-location");
 
 async function getdata(lat, long) {
     const Promise = await fetch(
-        `http://api.weatherapi.com/v1/current.json?key=90e6c4f73eb04c36adb135255240110&q=${lat},${long}&aqi=yes`
+        `http://api.weatherapi.com/v1/current.json?key=${API-KEY}&q=${lat},${long}&aqi=yes`
     );
     return await Promise.json();
 }
